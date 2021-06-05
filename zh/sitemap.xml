@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fufile.cn/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://fufile.cn/zh/blog/"
-                />
-  </url>
-  
-  <url>
     <loc>https://fufile.cn/zh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -55,6 +41,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://fufile.cn/zh/search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fufile.cn/zh/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fufile.cn/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://fufile.cn/zh/blog/"
                 />
   </url>
   
