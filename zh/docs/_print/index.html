@@ -79,16 +79,6 @@
 				<a  class="nav-link" href="/zh/blog/" ><span>博客</span></a>
 			</li>
 			
-			<li class="nav-item mr-4 mb-2 mb-lg-0">
-				
-				
-				
-				
-				
-				
-				<a  class="nav-link" href="/zh/community/" ><span>社区</span></a>
-			</li>
-			
 			
 			
 			<li class="nav-item dropdown d-none d-lg-block">
@@ -171,6 +161,33 @@ This the multi-page printable view of this section.
     </ul>
     
   
+    
+    
+	
+<li>2: <a href="#pg-8efbf7499fe9c7bde8d2c1bb7ff6ee3c">贡献指南</a></li>
+
+
+    
+    <ul>
+        
+  
+  
+  
+  
+
+  
+    
+    
+	
+<li>2.1: <a href="#pg-b5bfc8f554a1a8b77b3a53bc4ec7401e">DCO签署指南</a></li>
+
+
+    
+  
+
+    </ul>
+    
+  
 
     </ul>
 
@@ -240,6 +257,123 @@ This the multi-page printable view of this section.
   
   
 
+  
+
+    
+	
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-8efbf7499fe9c7bde8d2c1bb7ff6ee3c">2 - 贡献指南</h1>
+    <div class="lead">罗马并非一天建成的。</div>
+	<h3 id="签署贡献者许可协议">签署贡献者许可协议</h3>
+<p>在我们合并您的pull request前，我们需要您签署贡献者许可协议。</p>
+<h3 id="代码约定">代码约定</h3>
+<ul>
+<li>JavaDoc不使用@author，因为随着更新的人增多，JavaDoc将变得臃肿。Git提交记录中将公平地记录您的贡献。</li>
+<li>项目中所有新建的文件顶部要添加ASF许可注释，可以从现有文件中复制。</li>
+</ul>
+<h3 id="贡献流程">贡献流程</h3>
+<ul>
+<li>Fork Fufile项目</li>
+<li>clone到本地</li>
+<li>从希望贡献的分支中创建新的分支，trunk分支不允许pull request，可以从dev分支创建。</li>
+<li>提交您的更改，并签署dco。</li>
+<li>将新分支推送到您fork的仓库。</li>
+<li>在提交pull request前，请将您的仓库与远程代码同步，避免产生冲突并使提交记录清晰。</li>
+</ul>
+<div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">git remote add upstream git@gitee.com:xufucheng/fufile.git
+git fetch upstream
+git rebase upstream/dev
+git checkout -b your_awesome_patch
+... add some work
+git push origin your_awesome_patch
+</code></pre></div><ul>
+<li>申请pull request，并等待回复。</li>
+</ul>
+
+</div>
+
+
+
+    
+      
+  
+  
+  
+  
+
+  
+  
+
+  
+    
+    
+	
+    
+
+<div class="td-content" style="page-break-before: always">
+    
+	<h1 id="pg-b5bfc8f554a1a8b77b3a53bc4ec7401e">2.1 - DCO签署指南</h1>
+    
+	<h3 id="dco签署流程">DCO签署流程</h3>
+<p>Fufile采用对社区更友好的DCO贡献者许可协议。</p>
+<p>DCO 是 Developer Certificate of Origin 的缩写，由 Linux Foundation 于 2004 年制定。</p>
+<div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">Developer Certificate of Origin
+Version 1.1
+
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+1 Letterman Drive
+Suite D4700
+San Francisco, CA, 94129
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+
+Developer&#39;s Certificate of Origin 1.1
+
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the open source license
+    indicated in the file; or
+
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the same open source license (unless I am
+    permitted to submit under a different license), as indicated
+    in the file; or
+
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
+
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it, including my sign-off) is
+    maintained indefinitely and may be redistributed consistent with
+    this project or the open source license(s) involved.
+</code></pre></div><p>在每次提交贡献前，若您同意DCO协议，需要将<code>Signed-off-by</code>添加到提交的信息中。</p>
+<div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">This is my commit message
+
+Signed-off-by: Random J Developer &lt;random@developer.example.org&gt;
+</code></pre></div><p>Git集成了DCO，您可以方便的通过Git命令将<code>Signed-off-by</code>添加到您的提交信息中。</p>
+<div class="highlight"><pre style="color:#8a8a8a;background-color:#1c1c1c;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">git commit -s -m &#39;This is my commit message&#39;
+</code></pre></div>
+</div>
+
+
+
+    
+	
   
 
     

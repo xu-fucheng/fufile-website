@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://fufile.cn/zh/docs/overview/</loc>
+    <lastmod>2021-06-07T01:04:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +14,24 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://fufile.cn/zh/docs/overview/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fufile.cn/zh/docs/contribution-guidelines/dco-signing-guidelines/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fufile.cn/zh/docs/contribution-guidelines/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fufile.cn/en/docs/contribution-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://fufile.cn/zh/docs/contribution-guidelines/"
                 />
   </url>
   
@@ -33,7 +52,7 @@
   
   <url>
     <loc>https://fufile.cn/zh/</loc>
-    <lastmod>2021-06-05T23:23:07+08:00</lastmod>
+    <lastmod>2021-06-07T01:04:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -73,21 +92,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://fufile.cn/zh/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fufile.cn/zh/community/</loc>
-    <lastmod>2021-06-05T23:23:07+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fufile.cn/en/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://fufile.cn/zh/community/"
                 />
   </url>
   

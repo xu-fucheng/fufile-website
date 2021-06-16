@@ -85,6 +85,16 @@
   <url>
     <loc>https://fufile.cn/en/docs/contribution-guidelines/</loc>
     <lastmod>2020-09-21T15:03:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://fufile.cn/zh/docs/contribution-guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fufile.cn/en/docs/contribution-guidelines/"
+                />
   </url>
   
   <url>
@@ -160,16 +170,6 @@
   <url>
     <loc>https://fufile.cn/en/community/</loc>
     <lastmod>2018-10-05T14:41:45+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://fufile.cn/zh/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fufile.cn/en/community/"
-                />
   </url>
   
   <url>
