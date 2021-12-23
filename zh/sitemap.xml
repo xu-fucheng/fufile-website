@@ -3,95 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fufile.cn/zh/docs/overview/</loc>
+    <loc>https://fufile.org/zh/docs/overview/</loc>
     <lastmod>2021-06-07T01:04:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fufile.cn/en/docs/overview/"
+                href="https://fufile.org/en/docs/overview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://fufile.cn/zh/docs/overview/"
+                href="https://fufile.org/zh/docs/overview/"
                 />
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/docs/contribution-guidelines/dco-signing-guidelines/</loc>
+    <loc>https://fufile.org/zh/docs/contribution-guidelines/dco-signing-guidelines/</loc>
+    <lastmod>2021-06-17T00:06:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/docs/contribution-guidelines/</loc>
+    <loc>https://fufile.org/zh/docs/contribution-guidelines/</loc>
+    <lastmod>2021-06-17T00:06:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fufile.cn/en/docs/contribution-guidelines/"
+                href="https://fufile.org/en/docs/contribution-guidelines/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://fufile.cn/zh/docs/contribution-guidelines/"
+                href="https://fufile.org/zh/docs/contribution-guidelines/"
                 />
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/docs/</loc>
+    <loc>https://fufile.org/zh/docs/</loc>
     <lastmod>2021-06-05T23:23:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fufile.cn/en/docs/"
+                href="https://fufile.org/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://fufile.cn/zh/docs/"
+                href="https://fufile.org/zh/docs/"
                 />
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/</loc>
+    <loc>https://fufile.org/zh/</loc>
     <lastmod>2021-06-07T01:04:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fufile.cn/en/"
+                href="https://fufile.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://fufile.cn/zh/"
+                href="https://fufile.org/zh/"
                 />
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/search/</loc>
+    <loc>https://fufile.org/zh/search/</loc>
     <lastmod>2021-06-05T23:23:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fufile.cn/en/search/"
+                href="https://fufile.org/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://fufile.cn/zh/search/"
+                href="https://fufile.org/zh/search/"
                 />
   </url>
   
   <url>
-    <loc>https://fufile.cn/zh/blog/</loc>
+    <loc>https://fufile.org/zh/blog/</loc>
     <lastmod>2021-06-05T23:23:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fufile.cn/en/blog/"
+                href="https://fufile.org/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://fufile.cn/zh/blog/"
+                href="https://fufile.org/zh/blog/"
                 />
   </url>
   
